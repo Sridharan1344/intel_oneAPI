@@ -1,5 +1,8 @@
 🔗About The Project
 
+![Best-CPU-GPU-Combos](https://github.com/Sridharan1344/intel_oneAPI/assets/127713994/0bb76c17-36bc-4bcf-9726-e2b335d35d70)
+
+
 This project utilizes machine learning techniques like linear regression and decision tree regression to predict the performance metric of CPU and GPU combinations. It features a graphical user interface (GUI) using Gradio for easy input and output. Intel oneAPI is leveraged for hardware optimization, particularly for Intel processors and GPUs. The predictive models are trained on various features of CPU and GPU specifications, such as clock speed, number of cores, and memory size. Users can input these features through the GUI and obtain predictions of the performance metric as output.
 
 🔗Intel® oneAPI is used to optimize the models to provide accurate and efficient prediction,
@@ -108,17 +111,20 @@ Evaluation and Optimization:
 We evaluate the performance of the machine learning models using metrics such as accuracy, precision, recall, and F1-score.
 The models may be optimized for efficiency using techniques such as feature selection, hyperparameter tuning, and model ensembling.
 
-Intel oneAPI Integration:
+🔗Intel oneAPI Integration:
 
 We leverage Intel oneAPI for hardware optimization, ensuring efficient performance of the machine learning models on Intel processors and GPUs.
 This optimization enhances the accuracy and speed of predictions, particularly for users with Intel hardware.
 
-Graphical User Interface (GUI):
+🔗Graphical User Interface (GUI):
 
 The project includes a GUI built using Gradio, providing a user-friendly interface for inputting CPU and GPU specifications and obtaining predictions of the performance metric.
 This GUI enhances accessibility and usability, allowing users to interact with the machine learning models without needing programming knowledge.
 
 Overall, our project enables users to predict the performance metric of CPU and GPU combinations accurately and efficiently, leveraging machine learning techniques, hardware optimization with Intel oneAPI, and a user-friendly GUI.
+
+![USER INTERFACE](https://github.com/Sridharan1344/intel_oneAPI/assets/127713994/4f251c40-07b9-474d-b65e-7de8b674b219)
+
 
 🔗How we built it
 
